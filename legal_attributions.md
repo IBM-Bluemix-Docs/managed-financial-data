@@ -10,6 +10,7 @@ lastupdated: "2017-05-10"
 {:screen: .screen}
 {:codeblock: .codeblock}
 {:pre: .pre}
+{:faq: data-hd-content-type='faq'}
 
 
 # Legal attributions

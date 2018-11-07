@@ -13,6 +13,7 @@ lastupdated: "2018-10-24"
 {:note: .note}
 {:important: .important}
 {:deprecated: .deprecated}
+{:faq: data-hd-content-type='faq'}
 
 <!-- I will need to change xref references from SimulatedInstrumentAnalytics to simulated-instrument-analytics once the name change occurs-->
 
