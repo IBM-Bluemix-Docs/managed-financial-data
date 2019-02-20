@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-02-08"
+lastupdated: "2019-02-21"
 
 ---
 <!-- {:new_window: target="_blank"} -->
@@ -43,12 +43,12 @@ In this case, see the API Reference documentation of the integrated service.
 You don't need to refer to the API reference for {{site.data.keyword.mfd_full_notm}}.
 
 You can integrate {{site.data.keyword.mfd_full_notm}} with the following APIs and services:
-* [{{site.data.keyword.sia_full}}](/docs/services/simulated-instrument-analytics/index.html)
-<!-- * [{{site.data.keyword.sia_full}}](/docs/services/simulated-instrument-analytics?topic=simulated-instrument-analytics-getting_started_siminstruanalshort)-->
+<!-- * [{{site.data.keyword.sia_full}}](/docs/services/simulated-instrument-analytics/index.html) -->
+* [{{site.data.keyword.sia_full}}](/docs/services/simulated-instrument-analytics?topic=simulated-instrument-analytics-getting_started_siminstruanalshort)
 
 Integrating a service requires the configuration of the service-to-service broker.
-See the [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics/index.html) documentation.
-<!--See the [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics?topic=simulated-instrument-analytics-getting_started_siminstruanalshort) documentation.-->
+<!-- See the [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics/index.html) documentation.-->
+See the [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics?topic=simulated-instrument-analytics-getting_started_siminstruanalshort) documentation.
 
 ### Direct access
 {: #direct_access_mfd}
@@ -87,8 +87,8 @@ Reader access is all you require to use {{site.data.keyword.mfd_short}}.
 The assigned access policy applies to all the resources of the service.
 
 If you are using {{site.data.keyword.mfd_short}} with {{site.data.keyword.siminstruanalshort}}, you also need to do these steps for {{site.data.keyword.siminstruanalshort}}.
-This requirement is also discussed in [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics/index.html).
-<!--This requirement is also discussed in [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics?topic=simulated-instrument-analytics-getting_started_siminstruanalshort).-->
+<!-- This requirement is also discussed in [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics/index.html).-->
+This requirement is also discussed in [Getting started with {{site.data.keyword.siminstruanalshort}}](/docs/services/simulated-instrument-analytics?topic=simulated-instrument-analytics-getting_started_siminstruanalshort).
 
 
 
